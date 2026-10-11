@@ -1,0 +1,51 @@
+{
+  "cacheKey": "7fa40b9fa13c81925a950efe2f1500fc",
+  "cacheKeyMode": "tag",
+  "createdAt": "2026-10-11T13:18:10.358Z",
+  "updatedAt": "2026-10-11T13:18:10.358Z",
+  "source": "novelai",
+  "fileName": "7fa40b9fa13c81925a950efe2f1500fc.png",
+  "ext": "png",
+  "mime": "image/png",
+  "bytes": 1430735,
+  "tag": "nsfw, 1boy, short black hair, broken glasses, blood on forehead, hands tied behind back with torn cloth, pants pulled down to knees, (勃起的阴茎暴露,龟头充血发紫,马眼渗出前列腺液), kneeling on ground, (朱耀祖蹲在他面前大笑,其他混混围观嘲笑), humiliated expression, crying, tears mixed with blood, alley background, dark lighting, medium shot",
+  "characterLayout": {
+    "base": "nsfw, 1boy, broken glasses, blood on forehead, hands tied behind back with torn cloth, pants pulled down to knees, (勃起的阴茎暴露,龟头充血发紫,马眼渗出前列腺液), kneeling on ground, (朱耀祖蹲在他面前大笑,其他混混围观嘲笑), humiliated expression, crying, tears mixed with blood, alley background, dark lighting, medium shot",
+    "characters": [
+      {
+        "prompt": "boy, short black hair",
+        "uc": "",
+        "center": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    ],
+    "mode": "auto-single"
+  },
+  "roll": "default",
+  "seedControl": null,
+  "actualSeed": 2551783052,
+  "model": "nai-diffusion-5-full",
+  "size": "portrait",
+  "width": 832,
+  "height": 1216,
+  "steps": 28,
+  "scale": 5.5,
+  "cfgRescale": 0,
+  "sampler": "k_euler_ancestral",
+  "noiseSchedule": "karras",
+  "positiveHash": "07a58920f03089a3144c1f382c8bf09026b074591d15ec5fefb644842f0c4f6f",
+  "negativeHash": "aa36d52cff2d8235fe4eebf88bcfab5d42017378c9877afc51a6a28c93305bf3",
+  "promptPreview": "1.2::artist:xiao_lin_jiu::, 1.1::artist:tsumoi_(infinity)::, 0.75::artist:eteru::, 0.65::artist:akipeko::, 3::oily shiny skin::, 1.15::depthness::, 1.1::painterly::, 0.75::3d::, soft gradient shading, delicate dimensional rendering, gentle ambient occlusion, soft oval face, petite facial structure, softly rounded cheeks, delicate narrow jawline, soft delicate eyelids, thin upper eyelids, soft lower eyelids, 1.1::small nose::, softly defined nose tip, short philtrum, 1.1::small mouth::, delicate ",
+  "negativePreview": "lowres, worst quality, bad quality, artistic error, jpeg artifacts, bad anatomy, bad hands, multiple views, logo, watermark, photorealistic, realistic photograph, photo (medium), plastic skin, wax skin, greasy skin, overly glossy skin, doll joints, figure, hard cel shading, thick outlines, harsh outlines, flat lighting, weak facial shading, featureless face, huge round eyes,blank stare, surprised expression, overexposed face, overly dark face, muddy colors, blurry facial features, distorted mout",
+  "github": {
+    "enabled": true,
+    "owner": "kian0122",
+    "repo": "nieyin-images",
+    "branch": "main",
+    "imagePath": "nai-images/images/7fa40b9fa13c81925a950efe2f1500fc.png",
+    "metaPath": "nai-images/meta/7fa40b9fa13c81925a950efe2f1500fc.json",
+    "rawUrl": "https://raw.githubusercontent.com/kian0122/nieyin-images/main/nai-images/images/7fa40b9fa13c81925a950efe2f1500fc.png"
+  }
+}
